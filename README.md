@@ -18,6 +18,13 @@ Nosso objetivo é facilitar o acesso a informações como **CNPJ**, **CEP**, e o
 - [@adamloko](https://github.com/adamloko)
 - [@danieldouglas26](https://github.com/danieldouglas26)
 
+### ☕ Apoie o projeto
+
+Se o OpenCaramelo te ajudou, considere fazer uma doação para manter o projeto vivo!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/opencaramelo)
+[![Mercado Pago PIX](https://img.shields.io/badge/Mercado%20Pago-PIX-00b1ea?style=for-the-badge&logo=mercado-pago&logoColor=white)](https://link.mercadopago.com.br/opencaramelo)
+
 
 🧩 *OpenCaramelo é um projeto open source.*
 
